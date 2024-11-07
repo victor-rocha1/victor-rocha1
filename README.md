@@ -40,7 +40,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 
 ## Principais Projetos
 
-- [Portifólio Web](https://github.com/victor-rocha1/meu-portifolio)
+- [Portifólio Web](https://github.com/victor-rocha1/portifolio-victor2)
 - [OneBitFlix](https://github.com/victor-rocha1/onebitflix)
 - [Jogo de Damas - Projeto de Extensão Acadêmico](https://github.com/victor-rocha1/jogo-de-damas)
 - [Validador de Email e Senha](https://github.com/victor-rocha1/Validador-de-Email-e-Senha)
