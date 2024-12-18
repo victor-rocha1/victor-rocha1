@@ -1,10 +1,14 @@
 # 👋 Olá, eu sou Victor Rocha
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Atualmente, estou focando meus estudos no desenvolvimento Web, tanto no Front End quanto no Back End. Busco aprender e aprimorar minhas habilidades para construir soluções inovadoras e funcionais.
-
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victor-rocha1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-rocha1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=victor-rocha1&theme=transparent" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-rocha1&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  </a>
 </div>
 
 <br>
