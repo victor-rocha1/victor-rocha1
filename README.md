@@ -45,7 +45,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 ## Principais Projetos
 
 - [Portifólio Web](https://github.com/victor-rocha1/portifolio-victor2)
-- [Cadastro com PHP - Laravel]([url](https://github.com/victor-rocha1/cadastro_laravel))
+- [Cadastro com PHP - Laravel](https://github.com/victor-rocha1/cadastro_laravel)
 - [OneBitFlix](https://github.com/victor-rocha1/onebitflix)
 - [Jogo de Damas - Projeto de Extensão Acadêmico](https://github.com/victor-rocha1/jogo-de-damas)
 - [Validador de Email e Senha](https://github.com/victor-rocha1/Validador-de-Email-e-Senha)
