@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Victor Rocha
+# 👋 Olá, sou Victor Rocha,
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Atualmente, estou focando meus estudos no desenvolvimento Web, tanto no Front End quanto no Back End. Busco aprender e aprimorar minhas habilidades para construir soluções inovadoras e funcionais.
 <br>
