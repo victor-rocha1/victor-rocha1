@@ -30,17 +30,17 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="30" alt="cakephp logo" />
 </div>
 
 ## Minha Jornada
 
-- 📚 Estou atualmente cursando o terceiro período de Análise e Desenvolvimento de Sistemas.
+- 📚 Estou atualmente cursando o sexto período de Análise e Desenvolvimento de Sistemas.
 - 💻 Tenho explorado linguagens de programação, como JavaScript e Python, e linguagens de marcação como HTML5 e CSS3.
-- 🌐 Aprendendo sobre frameworks e bibliotecas como React, Node.js e Express.
-- 📫 Entre em contato pelo e-mail: victorrocha3202@gmail.com
+- 🌐 Aprendendo sobre frameworks e bibliotecas como React, CakePhp e Laravel.
+- 📫 Entre em contato pelo e-mail: victor.rocha3203@gmail.com
 
 ## Principais Projetos
 
