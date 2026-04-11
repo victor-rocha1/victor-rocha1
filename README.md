@@ -47,5 +47,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 - Estou comprometido em expandir meu conhecimento em desenvolvimento de software, colaborar em projetos interessantes e me tornar um desenvolvedor mais completo e versátil.
 - Sinta-se à vontade para explorar meus repositórios e entre em contato caso queira colaborar ou trocar experiências!
 
-
-<img src="https://raw.githubusercontent.com/victor-rocha1/victor-rocha1/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victor-rocha1/victor-rocha1/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victor-rocha1/victor-rocha1/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/victor-rocha1/victor-rocha1/output/snake.gif">
+</picture>
