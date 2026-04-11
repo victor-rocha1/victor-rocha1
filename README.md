@@ -47,11 +47,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 - Estou comprometido em expandir meu conhecimento em desenvolvimento de software, colaborar em projetos interessantes e me tornar um desenvolvedor mais completo e versátil.
 - Sinta-se à vontade para explorar meus repositórios e entre em contato caso queira colaborar ou trocar experiências!
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/victor-rocha-751376267/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/victor_rocha924/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+
+<img src="https://raw.githubusercontent.com/victor-rocha1/victor-rocha1/output/snake.svg" alt="Snake animation" />
