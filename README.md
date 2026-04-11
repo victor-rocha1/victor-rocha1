@@ -1,15 +1,7 @@
-# 👋 Olá, sou Victor Rocha,
+#  Olá, sou Victor Rocha,
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Atualmente, estou focando meus estudos no desenvolvimento Web, tanto no Front End quanto no Back End. Busco aprender e aprimorar minhas habilidades para construir soluções inovadoras e funcionais.
 <br>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=victor-rocha1&theme=transparent" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-rocha1&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-  </a>
-</div>
 
 <br>
 
@@ -37,7 +29,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 
 ## Minha Jornada
 
-- 📚 Estou atualmente cursando o sexto período de Análise e Desenvolvimento de Sistemas.
+- 🎓 Estou atualmente cursando o sexto período de Análise e Desenvolvimento de Sistemas.
 - 💻 Tenho explorado linguagens de programação, como JavaScript e Python, e linguagens de marcação como HTML5 e CSS3.
 - 🌐 Aprendendo sobre frameworks e bibliotecas como React, CakePhp e Laravel.
 - 📫 Entre em contato pelo e-mail: victor.rocha3203@gmail.com
