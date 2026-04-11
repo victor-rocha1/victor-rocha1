@@ -48,4 +48,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 - Sinta-se à vontade para explorar meus repositórios e entre em contato caso queira colaborar ou trocar experiências!
 
 
-<img src="https://raw.githubusercontent.com/victor-rocha1/victor-rocha1/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/victor-rocha1/victor-rocha1/output/github-contribution-grid-snake.svg" />
