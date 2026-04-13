@@ -29,7 +29,7 @@ Formado Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e prog
 
 ## Minha Jornada
 
-- 🎓 Estou atualmente cursando o sexto período de Análise e Desenvolvimento de Sistemas.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 💻 Tenho explorado linguagens de programação, como JavaScript e Python, e linguagens de marcação como HTML5 e CSS3.
 - 🌐 Aprendendo sobre frameworks e bibliotecas como React, CakePhp e Laravel.
 - 📫 Entre em contato pelo e-mail: victor.rocha3203@gmail.com
